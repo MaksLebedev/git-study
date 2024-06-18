@@ -4,6 +4,7 @@ const Post = () => {
   return (
     <div>
       <h2>Post</h2>
+      <h3>Post2</h3>
     </div>
   );
 };
